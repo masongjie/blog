@@ -87,7 +87,7 @@ func IsViewLimit(token string)(ok bool){
 	if err != nil {
 		return false
 	}
-	if viewTimes <=20{
+	if viewTimes <=100{
 		return true
 	}
 	return 
