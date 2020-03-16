@@ -1,0 +1,36 @@
+version: '3'
+
+services:
+  mysql:
+    image: mysql
+    expose:
+      - 3306
+    volumes:
+      - /data/blog_data:/var/lib/mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: 123456
+      MYSQL_DATABASE: blog
+    networks:
+      - my_bridge
+
+  redis:
+    image: redis
+    networks:
+      - my_bridge
+
+  blogger:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    networks:
+      - my_bridge
+    ports:
+      - 8080:8080
+    depends_on:
+      - mysql
+      - redis
+
+networks:
+  my_bridge:
+    driver: bridge
+

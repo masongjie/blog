@@ -1,0 +1,39 @@
+[GIN-debug] Loaded HTML Templates (18): 
+	- about.html
+	- gbook.html
+	- index.html
+	- views/404.html
+	- views/login.html
+	- post_article.html
+	- views/post_article.html
+	- share.html
+	- views/detail.html
+	- views/500.html
+	- views/about.html
+	- detail.html
+	- 
+	- 500.html
+	- views/gbook.html
+	- views/index.html
+	- login.html
+	- 404.html
+
+[GIN-debug] GET    /static/*filepath         --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] HEAD   /static/*filepath         --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (4 handlers)
+[GIN-debug] GET    /                         --> blogger/controller.Index (4 handlers)
+[GIN-debug] GET    /category                 --> blogger/controller.CategoryHandler (4 handlers)
+[GIN-debug] GET    /article/detail           --> blogger/controller.DetailHandler (4 handlers)
+[GIN-debug] GET    /article/new/             --> blogger/controller.NewArticle (5 handlers)
+[GIN-debug] POST   /article/submit/          --> blogger/controller.AddArticle (4 handlers)
+[GIN-debug] GET    /login                    --> blogger/controller.LoginHandler (4 handlers)
+[GIN-debug] POST   /login                    --> blogger/controller.LoginHandler (4 handlers)
+[GIN-debug] PUT    /login                    --> blogger/controller.LoginHandler (4 handlers)
+[GIN-debug] PATCH  /login                    --> blogger/controller.LoginHandler (4 handlers)
+[GIN-debug] HEAD   /login                    --> blogger/controller.LoginHandler (4 handlers)
+[GIN-debug] OPTIONS /login                    --> blogger/controller.LoginHandler (4 handlers)
+[GIN-debug] DELETE /login                    --> blogger/controller.LoginHandler (4 handlers)
+[GIN-debug] CONNECT /login                    --> blogger/controller.LoginHandler (4 handlers)
+[GIN-debug] TRACE  /login                    --> blogger/controller.LoginHandler (4 handlers)
+[GIN-debug] POST   /comment/submit/          --> blogger/controller.SubmitComment (4 handlers)
+[GIN-debug] POST   /category/add             --> blogger/controller.AddCategory (4 handlers)
+[GIN-debug] Listening and serving HTTP on 0.0.0.0:8080

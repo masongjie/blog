@@ -1,0 +1,202 @@
+{"level":"info","ts":1583577533.1777158,"msg":"failed to fetch URL","url":"http://example.com","attempt":3,"backoff":1}
+{"level":"info","ts":1583577543.1850584,"msg":"failed to fetch URL","url":"http://example.com","attempt":3,"backoff":1}
+{"level":"info","ts":1583577544.30624,"msg":"failed to fetch URL","url":"http://example.com","attempt":3,"backoff":1}
+{"level":"info","ts":1583723998.9985514,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583737416.5492532,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583817912.1195614,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583817995.2338312,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583818125.7871842,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583818427.9161956,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583818450.5119221,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583818484.9046752,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583893511.3108153,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583893513.2801337,"msg":"article detail ","articleID":3}
+{"level":"info","ts":1583893587.5839367,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583893589.9669552,"msg":"article detail ","articleID":3}
+{"level":"info","ts":1583896215.4520445,"msg":"article detail ","articleID":3}
+{"level":"info","ts":1583896294.70006,"msg":"article detail ","articleID":3}
+{"level":"info","ts":1583896302.4768045,"msg":"article detail ","articleID":2}
+{"level":"info","ts":1583896304.240199,"msg":"article detail ","articleID":3}
+{"level":"info","ts":1583896307.3909051,"msg":"article detail ","articleID":2}
+{"level":"info","ts":1583896309.197311,"msg":"article detail ","articleID":1}
+{"level":"info","ts":1583896571.9619145,"msg":"article detail ","articleID":1}
+{"level":"info","ts":1583912155.4334028,"msg":"insert article failed","err":"Error 1364: Field 'view_count' doesn't have a default value"}
+{"level":"info","ts":1583912157.7272208,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583912268.8655753,"msg":"insert article failed","err":"Error 1364: Field 'comment_count' doesn't have a default value"}
+{"level":"info","ts":1583912311.072248,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583912327.9320228,"msg":"insert article failed","err":"Error 1364: Field 'summary' doesn't have a default value"}
+{"level":"info","ts":1583912384.8722844,"msg":"article detail ","articleID":4}
+{"level":"info","ts":1583912416.8333018,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583912420.519419,"msg":"article detail ","articleID":4}
+{"level":"info","ts":1583912621.8002646,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583915638.4744434,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583926159.6917918,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583930008.184608,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583931173.135333,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583932398.2626386,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583932497.7646031,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583932587.614707,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583934333.8967981,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583934391.3188818,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583935845.237148,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583935916.349897,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583935933.1975698,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583935949.202373,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583935984.3856297,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583935985.823913,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583936003.1097023,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583936051.2880893,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583936056.3676665,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583936123.120952,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583936906.3918319,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583937482.2208655,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583937544.1650932,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583937844.3159642,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583937849.0675738,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583937850.2072875,"msg":"article detail ","articleID":4}
+{"level":"info","ts":1583937893.157409,"msg":"article detail ","articleID":4}
+{"level":"info","ts":1583937914.128206,"msg":"article detail ","articleID":4}
+{"level":"info","ts":1583937926.4084225,"msg":"article detail ","articleID":4}
+{"level":"info","ts":1583937935.7242758,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583937944.754948,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583937945.517011,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583937983.339423,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583937983.8312345,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583937984.376724,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583937985.1572654,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583937985.6485236,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583937986.0989153,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583937986.428876,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583937986.6928933,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583937986.9399965,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583937987.1189246,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583937987.3290446,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583937987.598281,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583937987.7423134,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583937988.120367,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583937988.3082721,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583937988.486287,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583937988.7803996,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583937989.5187218,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583937989.7106884,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583937989.9032667,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583937990.178337,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583937990.3513565,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583937990.5973506,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583937990.8492892,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583937991.1493785,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583938806.3668325,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583938919.304325,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583938920.1860418,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583938928.103446,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583939100.0922706,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583939100.8409407,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583939181.2533464,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583939397.355712,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583939397.9037957,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583939399.0726578,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583939399.799481,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583939400.4945276,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583939401.1856554,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583939401.8270025,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583939402.6254072,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583939403.2368395,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583939403.8180969,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583939404.3414588,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583939404.9763684,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583939405.5638838,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583939406.2257497,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583939406.90224,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583939407.4961085,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583939408.145692,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583939408.8776999,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583939409.7103114,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583939410.4605002,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583979231.3511791,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583979343.441073,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583979349.5077775,"msg":"article detail ","articleID":4}
+{"level":"info","ts":1583980622.8448408,"msg":"article detail ","articleID":4}
+{"level":"info","ts":1583980640.7973912,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583980671.646494,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583983555.7963548,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583990165.4985094,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583990195.6712754,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583990733.7429156,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583991800.570321,"msg":"redis store failed","err":null}
+{"level":"info","ts":1583991970.202528,"msg":"redis store failed","err":null}
+{"level":"info","ts":1583992187.197521,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583992294.7493796,"msg":"failed to fetch URL"}
+{"level":"info","ts":1583992367.2226284,"msg":"failed to fetch URL"}
+{"level":"info","ts":1584002254.0581949,"msg":"failed to fetch URL"}
+{"level":"info","ts":1584002256.236683,"msg":"article detail ","articleID":4}
+{"level":"info","ts":1584002278.515288,"msg":"article detail ","articleID":3}
+{"level":"info","ts":1584004075.7003558,"msg":"failed to fetch URL"}
+{"level":"info","ts":1584004077.8498619,"msg":"article detail ","articleID":4}
+{"level":"info","ts":1584005008.0445485,"msg":"article detail ","articleID":4}
+{"level":"info","ts":1584005021.3649352,"msg":"article detail ","articleID":4}
+{"level":"info","ts":1584005725.7927608,"msg":"article detail ","articleID":4}
+{"level":"info","ts":1584005725.7947626,"msg":"get commentlist failed","err":"missing destination name create_time in *[]*models.Comment"}
+{"level":"info","ts":1584005727.0760486,"msg":"failed to fetch URL"}
+{"level":"info","ts":1584005729.9286885,"msg":"article detail ","articleID":3}
+{"level":"info","ts":1584005729.9296892,"msg":"get commentlist failed","err":"missing destination name create_time in *[]*models.Comment"}
+{"level":"info","ts":1584005991.1548831,"msg":"article detail ","articleID":3}
+{"level":"info","ts":1584006005.4976883,"msg":"article detail ","articleID":4}
+{"level":"info","ts":1584006064.2341874,"msg":"article detail ","articleID":4}
+{"level":"info","ts":1584006078.451072,"msg":"article detail ","articleID":4}
+{"level":"info","ts":1584006332.8056836,"msg":"failed to fetch URL"}
+{"level":"info","ts":1584006390.8912048,"msg":"article detail ","articleID":5}
+{"level":"info","ts":1584006844.525682,"msg":"article detail ","articleID":5}
+{"level":"info","ts":1584006857.9057548,"msg":"article detail ","articleID":5}
+{"level":"info","ts":1584007000.2247272,"msg":"article detail ","articleID":5}
+{"level":"info","ts":1584007001.4059923,"msg":"article detail ","articleID":5}
+{"level":"info","ts":1584007021.2045915,"msg":"article detail ","articleID":5}
+{"level":"info","ts":1584007266.9691107,"msg":"article detail ","articleID":5}
+{"level":"info","ts":1584011544.978131,"msg":"failed to fetch URL"}
+{"level":"info","ts":1584011546.5945807,"msg":"article detail ","articleID":5}
+{"level":"info","ts":1584011585.121658,"msg":"article detail ","articleID":5}
+{"level":"info","ts":1584012514.0075984,"msg":"article detail ","articleID":5}
+{"level":"info","ts":1584012516.9472725,"msg":"article detail ","articleID":5}
+{"level":"info","ts":1584012517.6854377,"msg":"article detail ","articleID":5}
+{"level":"info","ts":1584012575.9895074,"msg":"article detail ","articleID":5}
+{"level":"info","ts":1584012888.687247,"msg":"article detail ","articleID":5}
+{"level":"info","ts":1584012889.639551,"msg":"article detail ","articleID":5}
+{"level":"info","ts":1584012983.1512156,"msg":"article detail ","articleID":5}
+{"level":"info","ts":1584013064.6652951,"msg":"article detail ","articleID":5}
+{"level":"info","ts":1584013066.083638,"msg":"article detail ","articleID":5}
+{"level":"info","ts":1584013115.7315428,"msg":"article detail ","articleID":5}
+{"level":"info","ts":1584013116.547725,"msg":"article detail ","articleID":5}
+{"level":"info","ts":1584013193.0193338,"msg":"article detail ","articleID":5}
+{"level":"info","ts":1584015263.2985437,"msg":"failed to fetch URL"}
+{"level":"info","ts":1584019151.1252613,"msg":"failed to fetch URL"}
+{"level":"info","ts":1584019186.1712213,"msg":"article detail ","articleID":6}
+{"level":"info","ts":1584019480.361395,"msg":"article detail ","articleID":7}
+{"level":"info","ts":1584019530.1497748,"msg":"article detail ","articleID":8}
+{"level":"info","ts":1584019643.0597236,"msg":"article detail ","articleID":9}
+{"level":"info","ts":1584019862.7923515,"msg":"article detail ","articleID":10}
+{"level":"info","ts":1584019885.4005616,"msg":"article detail ","articleID":11}
+{"level":"info","ts":1584068217.8213341,"msg":"failed to fetch URL"}
+{"level":"info","ts":1584068301.1136787,"msg":"failed to fetch URL"}
+{"level":"info","ts":1584068331.987365,"msg":"failed to fetch URL"}
+{"level":"info","ts":1584069276.774146,"msg":"failed to fetch URL"}
+{"level":"info","ts":1584069316.5796082,"msg":"failed to fetch URL"}
+{"level":"info","ts":1584070607.1030035,"msg":"failed to fetch URL"}
+{"level":"info","ts":1584070611.0420234,"msg":"failed to fetch URL"}
+{"level":"info","ts":1584071964.1855013,"msg":"article detail ","articleID":11}
+{"level":"info","ts":1584072040.321673,"msg":"article detail ","articleID":11}
+{"level":"info","ts":1584072055.84043,"msg":"article detail ","articleID":11}
+{"level":"info","ts":1584073825.5687983,"msg":"failed to fetch URL"}
+{"level":"info","ts":1584073963.3194652,"msg":"article detail ","articleID":12}
+{"level":"info","ts":1584073978.2667518,"msg":"article detail ","articleID":11}
+{"level":"info","ts":1584073983.4434414,"msg":"article detail ","articleID":10}
+{"level":"info","ts":1584073985.7114081,"msg":"article detail ","articleID":9}
+{"level":"info","ts":1584073987.0552115,"msg":"article detail ","articleID":8}
+{"level":"info","ts":1584073988.0033693,"msg":"article detail ","articleID":9}
+{"level":"info","ts":1584073989.4733016,"msg":"article detail ","articleID":8}
+{"level":"info","ts":1584073990.2471385,"msg":"article detail ","articleID":7}
+{"level":"info","ts":1584073991.5844817,"msg":"article detail ","articleID":6}
+{"level":"info","ts":1584073992.734587,"msg":"article detail ","articleID":5}
+{"level":"info","ts":1584074000.3630672,"msg":"article detail ","articleID":4}
+{"level":"info","ts":1584074004.0528388,"msg":"article detail ","articleID":3}
+{"level":"info","ts":1584074006.848429,"msg":"article detail ","articleID":2}
+{"level":"info","ts":1584074007.6830661,"msg":"article detail ","articleID":1}
+{"level":"info","ts":1584258523.4249792,"msg":"failed to fetch URL"}
