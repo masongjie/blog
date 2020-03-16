@@ -29,6 +29,8 @@ services:
     depends_on:
       - mysql
       - redis
+    volumes:
+      - /data/blog/log:/app/blog/log
 
 networks:
   my_bridge:
