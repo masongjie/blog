@@ -24,13 +24,24 @@ services:
       dockerfile: Dockerfile
     networks:
       - my_bridge
-    ports:
-      - 8080:8080
     depends_on:
       - mysql
       - redis
     volumes:
       - /data/blog/log:/app/blog/log
+
+  lb:
+    image: dockercloud/haproxy
+    ports:
+      - 8080:80
+    links:
+      - blogger
+    networks:
+      - my_bridge
+    expose:
+      - 80
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
 
 networks:
   my_bridge:

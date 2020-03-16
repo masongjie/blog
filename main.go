@@ -85,5 +85,5 @@ func main() {
 	// 新增分类
 	r.POST("/category/add",controller.AddCategory)
 
-	r.Run("0.0.0.0:8080")
+	r.Run("0.0.0.0:80")
 }
